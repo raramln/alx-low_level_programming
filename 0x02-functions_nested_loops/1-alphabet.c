@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - function
- * Return: 0
- */
+* main - function
+* Return: 0
+*/
 int main(void)
 {
 _putchar('_');
